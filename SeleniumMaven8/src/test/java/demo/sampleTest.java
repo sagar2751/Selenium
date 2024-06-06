@@ -10,6 +10,7 @@ public class sampleTest
 	{
 		Reporter.log("sample test class executed",true);
 		Reporter.log("sample test class modified",true);
+		Reporter.log("sample test class definied",true);
 	}
 
 }
