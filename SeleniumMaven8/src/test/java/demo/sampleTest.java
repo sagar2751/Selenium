@@ -9,6 +9,7 @@ public class sampleTest
 	public void test()
 	{
 		Reporter.log("sample test class executed",true);
+		Reporter.log("sample test class modified",true);
 	}
 
 }
